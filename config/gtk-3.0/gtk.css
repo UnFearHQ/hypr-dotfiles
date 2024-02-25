@@ -1,0 +1,5 @@
+/*.nemo-places-sidebar .view { */ 
+.nemo-window .sidebar .view {
+  background-color: @theme_fg_color;
+  color: @theme_bg_color;
+}
